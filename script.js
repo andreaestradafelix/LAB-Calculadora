@@ -1,9 +1,9 @@
 /*Archivo de JavaScript*/
 
-let a = parseFloat(prompt("Ingrese el primer número:"));
-let b = parseFloat(prompt("Ingrese el segundo número:"));
+let a = parseInt(prompt("Ingrese el primer número:"));
+let b = parseInt(prompt("Ingrese el segundo número:"));
 
-
+//Funciones de operaaciones 
 function sumar(a, b) {
     return a + b;
 }
