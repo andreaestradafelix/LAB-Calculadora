@@ -19,6 +19,7 @@ function dividir(a, b) {
    return a/b;
 }
 
+//Se muestran los resultados, se imprimen en la consola, se concatena cada operacion son su funcion, llamando los argumentos entre parentesis
 console.log("Suma: " + sumar(a, b));
 console.log("Resta: " + restar(a, b));
 console.log("Multiplicación: " + multiplicar(a, b));
